@@ -1,3 +1,6 @@
 [submodule "bootstrap"]
 	path = AssetStorage
 	url = https://github.com/JohnnyBoss1206/gitlogtest.git
+[submodule "test"]
+	path = test
+	url = https://github.com/JohnnyBoss1206/gitlogtest.git
